@@ -1,0 +1,5 @@
+2024-11-20 17:59:01,811 ERROR [main] c.e.App [App.java:17] -- My first ERROR log
+2024-11-20 18:01:55,731 ERROR [main] c.e.App [App.java:17] -- My first ERROR log
+2024-11-20 18:01:55,733 ERROR [main] c.e.App [App.java:23] -- Exception Occured
+java.lang.Exception: null
+	at com.example.App.main(App.java:21)
